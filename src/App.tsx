@@ -1,10 +1,11 @@
+import Post from "./Post"
 import TaskList from "./TaskList"
 
 function App() {
 
   return (
     <div>
-      <TaskList/>
+      <Post/>
     </div>
   )
 }
